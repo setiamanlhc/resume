@@ -1,5 +1,5 @@
 # 👋 **Setiaman Lee Hian Chung**
-🏠 **Singapore** | 📧 setiaman.lee@gmail.com | 📞 +65 9655 7396  
+🏠 **Singapore** | 📧 setiaman.lee@gmail.com | 📞 +65 9655 7396  | (LinkedIn)[https://www.linkedin.com/in/setiamanlee/]
 💼 **Lead Data Engineer | AWS Cloud | Data Architecture | DevOps**
 
 ---
