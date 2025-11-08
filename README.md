@@ -124,10 +124,3 @@ Strong leadership background — mentoring data engineering teams, driving DevOp
 - Delivered **secure, compliant, and scalable data systems** aligned with cloud best practices.
 
 ---
-
-## 🚀 **Key Strengths Aligned with Ollion**
-
-✅ Cloud-Native Data Architecture (AWS)  
-✅ Enterprise Data Lake & Warehouse Design  
-✅ ETL/ELT Orchestration & Optimization  
-✅ Team Leadership & Technical Men
